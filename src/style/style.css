@@ -1,0 +1,16 @@
+.mint-indexsection-index{
+    color: #333;
+    background: #ebebeb;
+}
+.mint-indexlist-nav{
+    border-left: none;
+    background: #ebebeb;
+}
+.mint-indexsection ul a{
+    background: #f5f5f5;
+    border-bottom: 1px solid #c8c7cc;
+    padding: 0 15px;
+}
+.mint-cell-wrapper{
+    font-size: 14px;
+}
